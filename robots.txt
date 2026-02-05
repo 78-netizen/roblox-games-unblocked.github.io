@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://roblox-games-unblocked.github.io/sitemap.xml
+Sitemap: https://unblocked-school-roblox.vercel.app/sitemap.xml
